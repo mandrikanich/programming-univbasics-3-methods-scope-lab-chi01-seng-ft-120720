@@ -10,6 +10,6 @@ def toadstool
 end
 
 def link
-  status = 'Its Dangerous To Go Alone! Take This.'
+  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
 end
 
